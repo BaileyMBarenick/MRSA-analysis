@@ -1,0 +1,6 @@
+# Large binary outputs — reproducible via Makefile
+*.bam
+*.bam.bai
+*.fasta
+*.fasta.fai
+*.fasta.gz
