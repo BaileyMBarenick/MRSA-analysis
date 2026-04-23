@@ -1,0 +1,9 @@
+name: mrsa-analysis
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - minimap2=2.30
+  - samtools=1.23.1
+  - entrez-direct=25.3
