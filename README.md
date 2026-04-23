@@ -2,6 +2,8 @@
 Alignment of 13 MRSA isolate assemblies against the *S. aureus* NCTC 8325
 reference genome (NC_007795.1) for BMMB554.
 
+Course instructor: [Anton Nekrutenko](https://github.com/nekrut)
+
 ## Overview
 Methicillin-resistant *Staphylococcus aureus* (MRSA) is a clinically significant
 pathogen responsible for difficult-to-treat infections. This project aligns 13
