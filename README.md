@@ -32,6 +32,13 @@ make        # download reference, index, align all 13 assemblies
 make clean  # remove reference and alignment outputs
 ```
 
+## Sample of Interest
+One isolate of note: **34003-19-S005** (BioSample `SAMD00591223`, BioProject `PRJDB15501`),
+collected 2019-12-17 in Hiroshima, Japan from a female patient with pneumonia. Sequenced
+by both Illumina (DRR456630, ~1.5M reads) and Oxford Nanopore (DRR546383, ~6.2K reads).
+Whether this isolate is among the 13 assemblies is unconfirmed — the assembly FASTA headers
+contain no sample metadata. To be resolved when a manifest becomes available.
+
 ## Changelog
 
 ### 2026-04-23
