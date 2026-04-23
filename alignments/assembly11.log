@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.172*1.01] collected minimizers
+[M::mm_idx_gen::0.196*1.20] sorted minimizers
+[M::main::0.196*1.20] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.205*1.19] mid_occ = 50
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.213*1.18] distinct minimizers: 276801 (99.08% are singletons); average occurrences: 1.019; average spacing: 10.006; total length: 2821361
+[M::worker_pipeline::2.877*1.02] mapped 2 sequences
+[M::main] Version: 2.30-r1287
+[M::main] CMD: minimap2 -a -x asm5 reference.fasta assemblies/assembly11.fasta.gz
+[M::main] Real time: 2.888 sec; CPU: 2.945 sec; Peak RSS: 0.136 GB
